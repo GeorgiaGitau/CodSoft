@@ -1,4 +1,4 @@
-Iris Flower Classification
+**Iris Flower Classification**
 
 This project demonstrates the application of machine learning techniques to classify different species of Iris flowers based on their features. Using a well-known dataset and a logistic regression model, we aim to accurately predict the species of an Iris flower given its measurements.
 
@@ -31,7 +31,7 @@ The Iris Flower Classification project successfully demonstrates the use of logi
 
 
 
-Sales Prediction Model
+**Sales Prediction Model**
 
 This project focuses on predicting sales based on advertising expenditures across three different media channels: TV, Radio, and Newspaper. The goal is to develop a machine learning model that accurately forecasts sales and helps businesses optimize their advertising strategies.
 
