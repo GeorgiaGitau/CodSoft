@@ -53,20 +53,22 @@ Project Steps
 •	Import Libraries: Import necessary libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn.
 •	Load Dataset: Load the dataset into a pandas DataFrame.
 •	Check for Missing Values: Ensure there are no missing values in the dataset.
-2. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
 •	Data Visualization: Use seaborn and matplotlib to create visualizations that help understand the distribution of data and relationships between variables.
 •	Correlation Analysis: Analyze correlations between advertising expenditures and sales.
-3. Data Preprocessing
+4. Data Preprocessing
 •	Feature Scaling: Standardize the features to ensure they contribute equally to the model.
-4. Model Building
+5. Model Building
 •	Train-Test Split: Split the data into training and testing sets.
 •	Linear Regression Model: Use Linear Regression to model the relationship between advertising expenditures and sales.
-5. Model Evaluation
+6. Model Evaluation
 •	Grid Search: Perform Grid Search to find the best hyperparameters for the Linear Regression model.
 •	Evaluation Metrics: Evaluate the model using Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² Score.
 
 Results
+
 •	The model showed a good fit, with low MSE and MAE values, and a high R² Score indicating that a significant portion of the variance in sales can be explained by the advertising expenditures.
+
 •	TV and Radio expenditures have a stronger correlation with sales compared to Newspaper expenditure.
 
 Conclusion
