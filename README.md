@@ -7,9 +7,13 @@ In this Jupyter Notebook, we will explore the Iris dataset, perform data preproc
 
 Dataset Description
 The Iris dataset consists of 150 samples from each of three species of Iris flowers (Setosa, Versicolor, and Virginica). Four features were measured from each sample:
+
 •	Sepal Length: Length of the sepal in centimeters.
+
 •	Sepal Width: Width of the sepal in centimeters.
+
 •	Petal Length: Length of the petal in centimeters.
+
 •	Petal Width: Width of the petal in centimeters.
 
 The goal is to predict the species of an Iris flower based on these features.
@@ -23,7 +27,9 @@ Steps Involved
 
 Results
 •	Accuracy: The logistic regression model achieved high accuracy on both training and validation sets.
+
 •	Confusion Matrix: The confusion matrix revealed that the model made very few misclassifications, further confirming its effectiveness.
+
 •	Feature Importance: Petal length and petal width were identified as the most significant features for distinguishing between the different Iris species.
 
 Conclusion
